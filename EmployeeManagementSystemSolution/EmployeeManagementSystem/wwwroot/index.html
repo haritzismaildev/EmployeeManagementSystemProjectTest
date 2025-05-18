@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Employee Management System</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+        }
+
+        input, select {
+            margin-bottom: 10px;
+            padding: 5px;
+            width: 100%;
+        }
+
+        .btn {
+            padding: 8px 12px;
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+
+            .btn:hover {
+                background-color: #45a049;
+            }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Employee Management System</h1>
+        <form id="employeeForm">
+            <div>
+                <label>First Name:</label>
+                <input type="text" id="firstName" required />
+            </div>
+            <div>
+                <label>Middle Name:</label>
+                <input type="text" id="middleName" />
+            </div>
+            <div>
+                <label>Last Name:</label>
+                <input type="text" id="lastName" required />
+            </div>
+            <div>
+                <label>Date Of Birth:</label>
+                <input type="date" id="dateOfBirth" required />
+            </div>
+            <div>
+                <label>Gender:</label>
+                <select id="gender" required>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+            <div>
+                <label>Address:</label>
+                <input type="text" id="address" />
+            </div>
+            <div>
+                <button type="submit" class="btn">Add Employee</button>
+            </div>
+        </form>
+
+        <h2>Employee List</h2>
+        <table id="employeeTable">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Full Name</th>
+                    <th>Date of Birth</th>
+                    <th>Gender</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data karyawan akan dimuat di sini -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+    const apiUrl = '/api/employees';
+
+    async function fetchEmployees() {
+        const response = await fetch(apiUrl);
+        const data = await response.json();
+        const tbody = document.querySelector('#employeeTable tbody');
+        tbody.innerHTML = '';
+        data.forEach(emp => {
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+                <td>${emp.id}</td>
+                <td>${emp.firstName} ${emp.middleName || ''} ${emp.lastName}</td>
+                <td>${new Date(emp.dateOfBirth).toLocaleDateString()}</td>
+                <td>${emp.gender}</td>
+                <td>${emp.address}</td>
+            `;
+            tbody.appendChild(tr);
+        });
+    }
+
+    document.getElementById('employeeForm').addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const employee = {
+            firstName: document.getElementById('firstName').value,
+            middleName: document.getElementById('middleName').value,
+            lastName: document.getElementById('lastName').value,
+            dateOfBirth: document.getElementById('dateOfBirth').value,
+            gender: document.getElementById('gender').value,
+            address: document.getElementById('address').value
+        };
+        const response = await fetch(apiUrl, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(employee)
+        });
+        if(response.ok) {
+            alert('Karyawan berhasil ditambahkan!');
+            fetchEmployees();
+        } else {
+            alert('Terjadi kesalahan saat menambahkan karyawan.');
+        }
+    });
+
+    // Muat data karyawan saat halaman diakses
+    fetchEmployees();
+    </script>
+</body>
+</html>

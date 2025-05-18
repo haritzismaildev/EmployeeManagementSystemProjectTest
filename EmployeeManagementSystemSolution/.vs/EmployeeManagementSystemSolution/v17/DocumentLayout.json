@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FD88243-2DFA-4AC1-ABD2-E5FD41476A68}|EmployeeManagementSystem.Tests\\EmployeeManagementSystem.Tests.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem.tests\\employeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FD88243-2DFA-4AC1-ABD2-E5FD41476A68}|EmployeeManagementSystem.Tests\\EmployeeManagementSystem.Tests.csproj|solutionrelative:employeemanagementsystem.tests\\employeetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\migrations\\20250518070031_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\migrations\\20250518070031_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\controllers\\jobpositionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\jobpositionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\dtos\\jobpositiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dtos\\jobpositiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\models\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|i:\\github\\repositories\\employeemanagementsystemprojecttest\\employeemanagementsystemsolution\\employeemanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACBD971D-FB31-4695-99D4-6ECED68DDB4D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeTests.cs",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem.Tests\\EmployeeTests.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem.Tests\\EmployeeTests.cs",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem.Tests\\EmployeeTests.cs",
+              "RelativeToolTip": "EmployeeManagementSystem.Tests\\EmployeeTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvx0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:01:55.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250518070031_InitialCreate.cs",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Migrations\\20250518070031_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Migrations\\20250518070031_InitialCreate.cs",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Migrations\\20250518070031_InitialCreate.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Migrations\\20250518070031_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T07:00:32.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\wwwroot\\index.html",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\wwwroot\\index.html",
+              "RelativeToolTip": "EmployeeManagementSystem\\wwwroot\\index.html",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAiwJYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-18T06:52:05.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobPositionsController.cs",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Controllers\\JobPositionsController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\JobPositionsController.cs",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Controllers\\JobPositionsController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\JobPositionsController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAADwv24AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T06:07:31.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:54:18.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobPositionDTO.cs",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\DTOs\\JobPositionDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\DTOs\\JobPositionDTO.cs",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\DTOs\\JobPositionDTO.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\DTOs\\JobPositionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:50:38.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\DTOs\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\DTOs\\EmployeeDTO.cs",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\DTOs\\EmployeeDTO.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\DTOs\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:48:58.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Program.cs",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:43:46.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\appsettings.json",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-17T03:24:59.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:40:42.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Helpers\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Helpers\\EncryptionHelper.cs",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Helpers\\EncryptionHelper.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Helpers\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:38:02.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobPosition.cs",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Models\\JobPosition.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\JobPosition.cs",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Models\\JobPosition.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Models\\JobPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:36:50.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\Employee.cs",
+              "ToolTip": "I:\\github\\Repositories\\EmployeeManagementSystemProjectTest\\EmployeeManagementSystemSolution\\EmployeeManagementSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:09:22.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
